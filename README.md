@@ -89,7 +89,7 @@ The data has following features and variables:
 
 ![DECISION TREE. The decision tree falls under the… | by Nikita Malviya |  Analytics Vidhya | Medium](https://cdn-images-1.medium.com/fit/t/1600/480/1*7cyzrfuh9hKqz2lZxi_8ug.gif)
 
-After fitting the  **Decision Tree Classifier** model on our data and comparing the results of the Training and the Testing data we were able to observe that our model predicted the Attrition with an accuracy of 78% which can vary depending on the data and the fitting of the model.
+After fitting the  **Decision Tree Classifier** model on our data and comparing the results of the Training and the Testing data we were able to observe that our model predicted the Attrition with an accuracy of 84% for the training data and 86% for the testing data which can vary depending on the data and the fitting of the model.
 
 To take a look at the models, feel free to look at the  `ipnyb`  file to explore more.
 
