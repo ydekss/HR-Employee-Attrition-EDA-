@@ -69,7 +69,7 @@ The data has following features and variables:
 -  Employees who travel frequently for business have a higher attrition rate than those who travel rarely or not at all.
     
  -  The mean monthly income for employees in the dataset is $6,502, with a standard deviation of $4,707.
- - 
+ 
 -  Employees with higher levels of education tend to have lower attrition rates.
     
 -  Employees in certain job roles, such as sales representatives and human resources, have higher attrition rates than those in other roles such as managers and research scientists.
